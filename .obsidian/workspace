@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "4fd9b70e7de7a729",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0bd1566314ce35c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Статьи/В работе/Генерируй больше контента чем потребляешь.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15ef9a9eaf1d1ba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5226d5d3edcfb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bfb1b2877565a66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db98e90db2246702",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fabcb744a5a38f68",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5
+  },
+  "right": {
+    "id": "eb6a14844dbcd3d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "db6f216e19615761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a352de8f118c258",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Статьи/В работе/Генерируй больше контента чем потребляешь.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3e0ece31c48a8d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Статьи/В работе/Генерируй больше контента чем потребляешь.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70693eeb3bd615e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48c6cf64e3682c5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Статьи/В работе/Генерируй больше контента чем потребляешь.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a0bd1566314ce35c",
+  "lastOpenFiles": [
+    "Статьи/В работе/Почему я пишу статьи.md",
+    "Статьи/В работе/Генерируй больше контента чем потребляешь.md",
+    "Идеи для статей/Ты отвественен за все.md",
+    "Идеи для статей/Что такое истина.md",
+    "Статьи/Выложенные/Untitled.md",
+    "Статьи/Не выложенные/Почему я счастлив.md",
+    "Статьи/Выложенные/Равноправие и равенство.md",
+    "Статьи/Выложенные/Аутизм лечится.md",
+    "Материалы/Pasted image 20250317213317.png",
+    "Статьи/Выложенные/На видео/Нейросети.md"
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "174b0f348e551838",
+    "type": "split",
+    "children": [
+      {
+        "id": "345ca1c6f3c9b2e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7861d854b9d770a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "endpoints/activity/update.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "update"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45b05fafb16ab2c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fac8b5d976113d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa4479726a7009a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f84f264b6f4e3e11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b3ec13712424fba8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "892812c99fc694be",
+    "type": "split",
+    "children": [
+      {
+        "id": "adbe7d6b2e8de474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18bb1a264a7c4a9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "endpoints/activity/update.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для update"
+            }
+          },
+          {
+            "id": "fd2addf5a6ddd2f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сценарии/Выгорание/Концентрат.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Концентрат"
+            }
+          },
+          {
+            "id": "8d8455f4def6b7cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee14e380443cdc74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сценарии/Выгорание/Концентрат.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Концентрат"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 563.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "7861d854b9d770a6",
+  "lastOpenFiles": [
+    "endpoints/activity/add.md",
+    "endpoints/activity/get.md",
+    "endpoints/activity/removeVisiter/removeVisiter.md",
+    "endpoints/activity/addVisiterByInviteCode/addVisiterByInviteCode.md",
+    "endpoints/static files/addImages.md",
+    "endpoints/service/update.md",
+    "endpoints/service/remove.md",
+    "endpoints/service/get.md",
+    "endpoints/service/add.md",
+    "endpoints/schedule/washingMachine/removeUserFromScedule/removeUserFromScedule.md",
+    "endpoints/schedule/washingMachine/get.md",
+    "endpoints/schedule/washingMachine/add.md",
+    "endpoints/schedule/washingMachine/addUserToSchedule/addUserToScedule.md",
+    "endpoints/schedule/washingMachine/update.md",
+    "endpoints/schedule/washingMachine/remove.md",
+    "endpoints/schedule/shower/update.md",
+    "endpoints/schedule/shower/remove.md",
+    "endpoints/schedule/shower/get.md",
+    "endpoints/schedule/shower/add.md",
+    "endpoints/profile/update.md",
+    "endpoints/profile/get.md",
+    "endpoints/profile/updatePassword/updatePassword.md",
+    "endpoints/profile/updateLogin/updateLogin.md",
+    "endpoints/profile/getUsersBySnp/getUsersBySnp.md",
+    "endpoints/profile/getNotifications/getNotifications.md",
+    "endpoints/news/add.md",
+    "Жизнь/Вуз/Диплом/endpoints/profile",
+    "Жизнь/Вуз/Диплом/endpoints",
+    "Жизнь/Вуз/Диплом",
+    "Жизнь/Вуз",
+    "Жизнь",
+    "Pasted image 20260110025759.png",
+    "Жизнь/Вуз/Диплом/endpoints/activity/removeVisiterByInviteCode 1",
+    "Жизнь/Вуз/Диплом/endpoints/schedule/washingMachine/removeUserFromScedule",
+    "Жизнь/Вуз/Диплом/endpoints/schedule/washingMachine/addUserToSchedule",
+    "Жизнь/Вуз/Диплом/endpoints/schedule/washingMachine",
+    "Жизнь/Вуз/Диплом/endpoints/schedule/shower",
+    "Материалы/Pasted image 20251119233307.png",
+    "Материалы/Pasted image 20251201042855.png",
+    "Материалы/Pasted image 20251201042804.png",
+    "Материалы/Pasted image 20251201042431.png",
+    "Материалы/Pasted image 20251201042304.png",
+    "Материалы/Pasted image 20251201042156.png",
+    "Материалы/Pasted image 20251201041917.png",
+    "Материалы/Pasted image 20251201041808.png",
+    "Материалы/Pasted image 20251201041715.png",
+    "Без названия.canvas"
+  ]
+}
