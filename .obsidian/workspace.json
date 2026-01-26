@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "endpoints/activity/update.md",
+                "file": "endpoints/endpoints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "update"
+              "title": "endpoints"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Жизнь/Вуз/Диплом/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "endpoints/activity/update.md",
+                "file": "endpoints/endpoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для update"
+              "title": "Обратные ссылки для endpoints"
             }
           },
           {
@@ -171,6 +172,9 @@
   },
   "active": "7861d854b9d770a6",
   "lastOpenFiles": [
+    "Дипломная работа.md",
+    "endpoints/endpoints.md",
+    "endpoints/activity/update.md",
     "endpoints/activity/add.md",
     "endpoints/activity/get.md",
     "endpoints/activity/removeVisiter/removeVisiter.md",
@@ -194,9 +198,6 @@
     "endpoints/profile/get.md",
     "endpoints/profile/updatePassword/updatePassword.md",
     "endpoints/profile/updateLogin/updateLogin.md",
-    "endpoints/profile/getUsersBySnp/getUsersBySnp.md",
-    "endpoints/profile/getNotifications/getNotifications.md",
-    "endpoints/news/add.md",
     "Жизнь/Вуз/Диплом/endpoints/profile",
     "Жизнь/Вуз/Диплом/endpoints",
     "Жизнь/Вуз/Диплом",
