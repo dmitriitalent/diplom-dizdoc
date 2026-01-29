@@ -15,22 +15,11 @@ https://backend.com/auth/registration/student POST
 {
 	"login": "Turbosrulik",
 	"password": "some!password",
+	"passwordConfirm": "some!password",
 	"education_email": "example@vuz.education",
 	"consent_user_agreement": True,
 	"hei": "МАИ (Московский Авиационный Институт)",
-	"surname": "Иванов",
-	"name": "Иван",
-	"patronymic": "Иванов",
-	"birthdate": "01.01.2000", // no req
-	"contacts": { // no req
-		"phone_number": "+7 123 456 78 90",
-		"email": "personal@gmail.com",
-		"telegram": "@dmitrii_talent",
-		"vk": "@dmitrii_talent",
-		"whatsapp": "@янезнаюкакввацапезаписываетсятег",
-		"steam": "stritten",
-		"pinterest": "dmitriitalent",
-	},
+	"birthdate": "01.01.2000"
 }
 ```
 

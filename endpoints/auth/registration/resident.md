@@ -15,26 +15,18 @@ const regex = /^(?=.*\d)(?=.*[!@#$%^&*])[A-Za-z\d!@#$%^&*]{6,}$/;
 {
 	"login": "Turbosrulik", 
 	"password": "some!password", 
+	"passwordConfirm": "some!password",
 	"education_email": "example@vuz.education", 
 	"consent_user_agreement": True, 
 	"hei": "МАИ (Московский Авиационный Институт)", 
+	"birthdate": "01.01.2000",
 	"dormitory": "Икар (ул. Дубосековская, д. 13)",
+	"building": "2",
+	"floor": "4",
+	"room": "2413",
 	"surname": "Иванов", 
 	"name": "Иван", 
 	"patronymic": "Иванов", 
-	"birthdate": "01.01.2000", // no req
-	"building": "2", // no req
-	"floor": "4", // no req
-	"room": "2413", // no req
-	"contacts": { // no req
-		"phone_number": "+7 123 456 78 90",
-		"email": "personal@gmail.com",
-		"telegram": "@dmitrii_talent",
-		"vk": "@dmitrii_talent",
-		"whatsapp": "@янезнаюкакввацапезаписываетсятег",
-		"steam": "stritten",
-		"pinterest": "dmitriitalent",
-	}, 
 }
 ```
 кста вацап вроде должен быть запрещен
